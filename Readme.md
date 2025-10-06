@@ -8,9 +8,10 @@ pip install kagglehub
 pip install matplotlib
 pip install scikit-learn
 pip install seaborn
+pip install imblearn
 ```
 
-# Evaluation
+# Evaluation (Oppgave 1)
 
 ## Knowledge to make an evaluation
 
