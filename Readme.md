@@ -9,6 +9,7 @@ pip install matplotlib
 pip install scikit-learn
 pip install seaborn
 pip install imblearn
+pip install tensorflow
 ```
 
 
