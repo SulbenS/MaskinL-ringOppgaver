@@ -11,6 +11,15 @@ pip install seaborn
 pip install imblearn
 ```
 
+
+# Libraries for more git control
+```
+pip install pipx
+pipx install nbdime
+pipx install nbstripout
+pipx install pip-review
+```
+
 # Evaluation (Oppgave 1)
 
 ## Knowledge to make an evaluation
