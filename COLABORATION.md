@@ -12,3 +12,7 @@ Both participated in answering the question sheet, aswell as writing the code fo
 
 
 # Assignment 3
+
+Both group members were working in discord calls while work was done on the assignment.
+
+Both participated in answering the question sheet, aswell as writing the code for the assignment. No lead was taken in a spesific task this time.
